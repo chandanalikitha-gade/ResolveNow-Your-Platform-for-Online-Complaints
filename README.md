@@ -56,7 +56,7 @@ Tenant Panel: File and track complaints
 🚀 How to Run bash Copy Edit
 
 Clone the repo
-git clone https://github.com/your-username/resolvenow.git cd resolvenow
+git clone https://github.com/chandanalikitha-gade/resolvenow.git cd resolvenow
 
 Install server dependencies
 cd server npm install
@@ -71,7 +71,11 @@ npm start Make sure MongoDB is running locally or set up via MongoDB Atlas.
 (Add your hosted link here)
 
 👩‍💻 Author Chandanalikitha Gade
-(Or your team name, if collaborative)
+TEAM MEMBERS:
+1.Surya Chaitanya 
+2.Chandanalikitha Gade
+3.kankanala akhila 
+4.jayamangala chinna Raghupathi
 
 📚 About This project is developed as part of the SmartInternz Full Stack Development course. It showcases the implementation of a real-world issue resolution system using modern web technologies.
 
