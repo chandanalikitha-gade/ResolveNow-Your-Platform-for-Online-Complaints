@@ -68,7 +68,8 @@ Start the application
 npm start Make sure MongoDB is running locally or set up via MongoDB Atlas.
 
 🔗 Live Demo 👉 View Live Demo 
-(Add your hosted link here)
+https://drive.google.com/file/d/1uO3B15ZJVfDpvYAoUW-aqb7yVgPnvc41/view?usp=sharing
+docment of the project
 
 👩‍💻 Author Chandanalikitha Gade
 TEAM MEMBERS:
